@@ -1,4 +1,6 @@
 import praw
+import random
+
 
 reddit = praw.Reddit(user_agent='Facility_AI Reborn by /u/Reckasta', client_id='GORfUXQGjNIveA', client_secret='SzPFXaqgVbRxm_V9-IfGL05npPE', username='Facility_AI', password='UncloakIsADick')
 
